@@ -36,9 +36,9 @@
 **Requirements:** SRCH-01 through SRCH-04
 
 **Plans:**
-1/3 plans complete
+2/3 plans complete
 - [x] 02-01-PLAN.md — Embedder + Search Result Models (SRCH-01)
-- [ ] 02-02-PLAN.md — Vector Index Module (SRCH-02)
+- [x] 02-02-PLAN.md — Vector Index Module (SRCH-02)
 - [ ] 02-03-PLAN.md — Search API + Performance (SRCH-03, SRCH-04)
 
 ---
@@ -67,7 +67,7 @@
 | Phase | Goal | Plans | Status |
 |-------|------|-------|--------|
 | 1 | Dataset Foundation | 3/3 | Complete |
-| 2 | Semantic Search Core | 1/3 | In Progress |
+| 2 | Semantic Search Core | 2/3 | In Progress |
 | 3 | API and Interface | 0/2 | Pending |
 
 ---
