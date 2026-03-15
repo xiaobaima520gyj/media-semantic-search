@@ -6,12 +6,22 @@ requires-python = ">=3.10"
 dependencies = [
     "pydantic>=2.0",
     "python-dateutil>=2.8.0",
+    "sentence-transformers>=2.2.0",
+    "numpy>=1.24.0",
+    "scikit-learn>=1.3.0",
 ]
 
 [project.optional-dependencies]
 dev = [
     "pytest>=7.0",
 ]
+cli = [
+    "click>=8.1.0",
+    "rich>=13.0.0",
+]
+
+[project.scripts]
+media-search = "src.cli.main:cli"
 
 [build-system]
 requires = ["hatchling"]
