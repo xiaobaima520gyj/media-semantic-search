@@ -17,9 +17,10 @@
 **Requirements:** DATA-01 through DATA-05
 
 **Plans:**
+3/3 plans complete
 - [x] 01-01-PLAN.md — Pydantic data models
 - [x] 01-02-PLAN.md — Sample dataset creation
-- [ ] 01-03-PLAN.md — Validation logic
+- [x] 01-03-PLAN.md — Validation logic
 
 ---
 
@@ -28,11 +29,17 @@
 **Goal:** Implement AI-powered semantic search using embeddings.
 
 **Success Criteria:**
-- Embedding model integrated (e.g., sentence-transformers)
+- Embedding model integrated (sentence-transformers)
 - Vector index built from dataset
 - Similarity search returns relevant results
 
 **Requirements:** SRCH-01 through SRCH-04
+
+**Plans:**
+3/3 plans
+- [ ] 02-01-PLAN.md — Embedder + Search Result Models (SRCH-01)
+- [ ] 02-02-PLAN.md — Vector Index Module (SRCH-02)
+- [ ] 02-03-PLAN.md — Search API + Performance (SRCH-03, SRCH-04)
 
 ---
 
@@ -59,9 +66,9 @@
 
 | Phase | Goal | Plans | Status |
 |-------|------|-------|--------|
-| 1 | Dataset Foundation | 2/3 | ◐ Executing |
-| 2 | Semantic Search Core | 0/3 | ○ Pending |
-| 3 | API and Interface | 0/2 | ○ Pending |
+| 1 | Dataset Foundation | 3/3 | Complete |
+| 2 | Semantic Search Core | 3/3 | Planned |
+| 3 | API and Interface | 0/2 | Pending |
 
 ---
-*Last updated: 2026-03-15 after Phase 1 planning*
+*Last updated: 2026-03-15 after Phase 2 planning*
