@@ -1,0 +1,93 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "id": "img_001",
+      "path": "sample/images/cat.jpg",
+      "description": "A sleeping orange tabby cat curled up on a sunny windowsill, with soft paws tucked beneath",
+      "media_type": "image",
+      "format": "jpg",
+      "categories": ["animals", "pets", "cats"],
+      "tags": ["sleeping", "orange", "windowsill", "tabby", "domestic"],
+      "created_at": "2024-01-15T10:30:00Z",
+      "updated_at": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "img_002",
+      "path": "sample/images/mountain.png",
+      "description": "Snow-capped mountain peak at sunrise, with golden light illuminating the rocky summit and surrounding valleys",
+      "media_type": "image",
+      "format": "png",
+      "categories": ["nature", "landscapes", "mountains"],
+      "tags": ["sunrise", "snow", "mountains", "scenic", "landscape"],
+      "created_at": "2024-02-20T06:15:00Z",
+      "updated_at": "2024-02-20T06:15:00Z"
+    },
+    {
+      "id": "img_003",
+      "path": "sample/images/city_bridge.webp",
+      "description": "Urban cityscape at night featuring a suspension bridge illuminated with colorful lights reflecting on the water below",
+      "media_type": "image",
+      "format": "webp",
+      "categories": ["urban", "cityscapes", "architecture"],
+      "tags": ["night", "bridge", "city", "lights", "urban", "reflection"],
+      "created_at": "2024-03-10T21:45:00Z",
+      "updated_at": "2024-03-10T21:45:00Z"
+    },
+    {
+      "id": "img_004",
+      "path": "sample/images/robotics.png",
+      "description": "A human-like robot hand with articulated fingers holding a small lightbulb, symbolizing innovation and technology",
+      "media_type": "image",
+      "format": "png",
+      "categories": ["technology", "robotics", "innovation"],
+      "tags": ["robot", "hand", "technology", "innovation", "ai", "future"],
+      "created_at": "2024-04-05T14:20:00Z",
+      "updated_at": "2024-04-05T14:20:00Z"
+    },
+    {
+      "id": "vid_001",
+      "path": "sample/videos/waterfall.mp4",
+      "description": "Time-lapse video of a cascading waterfall in a lush forest, with water rushing over moss-covered rocks",
+      "media_type": "video",
+      "format": "mp4",
+      "categories": ["nature", "landscapes", "water"],
+      "tags": ["time-lapse", "waterfall", "forest", "nature", "scenic"],
+      "created_at": "2024-01-20T14:00:00Z",
+      "updated_at": "2024-01-20T14:00:00Z"
+    },
+    {
+      "id": "vid_002",
+      "path": "sample/videos/beach_sunset.mov",
+      "description": "Beautiful sunset over a tropical beach with waves gently rolling onto the shore, palm trees swaying in the breeze",
+      "media_type": "video",
+      "format": "mov",
+      "categories": ["nature", "beaches", "travel"],
+      "tags": ["sunset", "beach", "ocean", "tropical", "palm-trees", "relaxing"],
+      "created_at": "2024-02-14T18:30:00Z",
+      "updated_at": "2024-02-14T18:30:00Z"
+    },
+    {
+      "id": "vid_003",
+      "path": "sample/videos/tech_conference.webm",
+      "description": "A tech conference keynote presentation showing slides about artificial intelligence and machine learning innovations",
+      "media_type": "video",
+      "format": "webm",
+      "categories": ["technology", "conferences", "business"],
+      "tags": ["conference", "ai", "machine-learning", "keynote", "presentation"],
+      "created_at": "2024-03-25T09:00:00Z",
+      "updated_at": "2024-03-25T09:00:00Z"
+    },
+    {
+      "id": "img_005",
+      "path": "sample/images/street_food.jpg",
+      "description": "Vibrant street food market in Asia with various grilled meats, vegetables, and aromatic spices on display",
+      "media_type": "image",
+      "format": "jpg",
+      "categories": ["food", "travel", "culture"],
+      "tags": ["street-food", "asia", "grilled", "spices", "market", "culture"],
+      "created_at": "2024-04-12T12:00:00Z",
+      "updated_at": "2024-04-12T12:00:00Z"
+    }
+  ]
+}
