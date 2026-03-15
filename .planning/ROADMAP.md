@@ -36,7 +36,7 @@
 **Requirements:** SRCH-01 through SRCH-04
 
 **Plans:**
-2/3 plans complete
+3/3 plans complete
 - [x] 02-01-PLAN.md — Embedder + Search Result Models (SRCH-01)
 - [x] 02-02-PLAN.md — Vector Index Module (SRCH-02)
 - [ ] 02-03-PLAN.md — Search API + Performance (SRCH-03, SRCH-04)
@@ -54,6 +54,11 @@
 
 **Requirements:** API-01 through API-03
 
+**Plans:**
+2/2 plans
+- [ ] 03-01-PLAN.md — Python API (MediaSearch class) (API-01, API-03)
+- [ ] 03-02-PLAN.md — CLI + Package Setup (API-02, API-03)
+
 ---
 
 ## Milestone Summary
@@ -67,8 +72,8 @@
 | Phase | Goal | Plans | Status |
 |-------|------|-------|--------|
 | 1 | Dataset Foundation | 3/3 | Complete |
-| 2 | Semantic Search Core | 2/3 | In Progress |
-| 3 | API and Interface | 0/2 | Pending |
+| 2 | Semantic Search Core | Complete    | 2026-03-15 |
+| 3 | API and Interface | 2/2 | Pending |
 
 ---
-*Last updated: 2026-03-15 after Phase 2 planning*
+*Last updated: 2026-03-15 after Phase 3 planning*
