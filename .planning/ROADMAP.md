@@ -18,7 +18,7 @@
 
 **Plans:**
 - [x] 01-01-PLAN.md — Pydantic data models
-- [ ] 01-02-PLAN.md — Sample dataset creation
+- [x] 01-02-PLAN.md — Sample dataset creation
 - [ ] 01-03-PLAN.md — Validation logic
 
 ---
@@ -59,7 +59,7 @@
 
 | Phase | Goal | Plans | Status |
 |-------|------|-------|--------|
-| 1 | Dataset Foundation | 1/3 | ◐ Executing |
+| 1 | Dataset Foundation | 2/3 | ◐ Executing |
 | 2 | Semantic Search Core | 0/3 | ○ Pending |
 | 3 | API and Interface | 0/2 | ○ Pending |
 
