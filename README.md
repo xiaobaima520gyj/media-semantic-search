@@ -1,3 +1,5 @@
+[English](./README_en.md) | 中文
+
 # Media Dataset Retrieval System - 使用指南
 
 ## 项目简介
